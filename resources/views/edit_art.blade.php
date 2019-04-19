@@ -4,7 +4,7 @@
 
         <div class="col-md-10">
             <div class="card">
-                <div class="card-header">Edycja artykułów</div>
+                <div class="card-header">Edycja artykułu</div>
 
               First Artykuł
 
