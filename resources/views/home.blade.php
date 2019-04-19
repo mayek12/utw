@@ -6,7 +6,7 @@
           
         <div class="col-md-10">
             <div class="card">
-                <div class="card-header">Spis artykułów</div>
+                <div class="card-header">Lista artykułów</div>
 
                 <div class="card-body">
                 
